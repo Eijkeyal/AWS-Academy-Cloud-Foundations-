@@ -55,3 +55,52 @@ This certification validates my understanding of the AWS Cloud ecosystem and pre
 ## 📂 Repository Structure
 
 
+
+
+
+
+
+
+
+# AWS Cloud Foundations - Course Documentation
+
+## 📋 Overview
+
+This repository contains comprehensive learning materials and structured notes from the **AWS Academy Cloud Foundations** course. These resources document core AWS cloud concepts and serve as preparation for AWS certification paths.
+
+## 📚 Course Curriculum
+
+### Module Breakdown
+
+| Module | Title | Focus Areas | Resources |
+|:------:|:------|:------------|:----------|
+| 1 | **Cloud Concepts & AWS Value Proposition** | Cloud Computing Models, AWS Benefits, Economics | [📖 View Notes](./notes/module-1-introduction.pdf) |
+| 2 | **AWS Global Infrastructure** | Regions, Availability Zones, Edge Locations | [📖 View Notes](./notes/module-2-infrastructure.pdf) |
+| 3 | **AWS Security & Compliance** | IAM, Shared Responsibility Model, Security Best Practices | [📖 View Notes](./notes/module-3-security.pdf) |
+| 4 | **AWS Pricing & Support Models** | Pricing Fundamentals, TCO, Support Plans | [📖 View Notes](./notes/module-4-pricing-support.pdf) |
+| 5 | **Core AWS Services** | EC2, S3, VPC, Database Services | [📖 View Notes](./notes/module-5-core-services.pdf) |
+| 6 | **Cloud Architecture Fundamentals** | High Availability, Scalability, Fault Tolerance | [📖 View Notes](./notes/module-6-architecture.pdf) |
+| 7 | **Cloud Migration Strategies** | Migration Approaches, Modernization Frameworks | [📖 View Notes](./notes/module-7-migration.pdf) |
+
+## 🎯 Learning Objectives
+
+Upon completing this course, I have demonstrated proficiency in:
+
+- **Cloud Fundamentals**: Explaining AWS Cloud value proposition and deployment models
+- **Infrastructure**: Describing AWS global infrastructure components
+- **Security**: Implementing IAM policies and understanding security best practices
+- **Architecture**: Designing resilient and scalable cloud solutions
+- **Economics**: Understanding AWS pricing models and cost optimization
+- **Services**: Utilizing core AWS services for compute, storage, and networking
+
+## 🏆 Certification
+
+**AWS Academy Graduate – Cloud Foundations**  
+*Issued by Amazon Web Services*
+
+This certification validates comprehensive understanding of AWS cloud concepts and prepares for advanced AWS learning paths including:
+- AWS Certified Cloud Practitioner
+- AWS Solutions Architect Associate
+- AWS Specialty certifications
+
+## 🛠️ Repository Structure
